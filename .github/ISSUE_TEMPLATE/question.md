@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-Keep it simple. Questions like "When is the release date" are invalid.
+Keep it short and simple 👍
+Remember, no multiple questions in one issue.
