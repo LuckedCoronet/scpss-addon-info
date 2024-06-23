@@ -2,15 +2,13 @@
 
 This repository is dedicated to manage bug reports, suggestions, and questions related to `SCP: Security Systems` add-on for Minecraft through GitHub issues.
 
-If you are new to GitHub, this tutorial video describes how you can create new issue to report a bug or suggest a feature.
+## If you are new to GitHub
 
-## Frequently used terms
+GitHub's `Issue` is a feature that's often used for bug reports and suggestions. It's similar to a thread in many social media services.
 
-### Issue
+To create an issue, go to [Issues](../../issues), click `New issue`, select template, fill up fields, and finally, click `Submit new issue`.
 
-Simply put, `Issue` is a thread feature in GitHub made for developers.
-
-`Issue` sounds like a bug report-only thing, but many projects use it for managing suggestions as well.
+We will respond to your issue when we have time. 👍
 
 ## Rules
 
