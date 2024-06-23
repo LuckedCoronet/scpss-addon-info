@@ -16,6 +16,7 @@ Simply put, `Issue` is a thread feature in GitHub made for developers.
 
 ### Prohibited types of issues
 
+- Multiple bug-reports/suggestions/questions in one issue
 - Vague suggestion of complicated feature
 - Undetailed bug report
 - Request to lower minimum Minecraft version
