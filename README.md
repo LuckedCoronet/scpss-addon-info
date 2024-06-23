@@ -1,4 +1,4 @@
-# Discussions about SCP: Security Systems addon
+# SCP: Security Systems - Issues
 
 This repository is dedicated to manage bug reports, suggestions, and questions related to `SCP: Security Systems` add-on for Minecraft through GitHub issues.
 
