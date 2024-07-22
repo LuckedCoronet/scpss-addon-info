@@ -3,7 +3,7 @@
 ## 3.0.0 (Unreleased)
 
 > [!NOTE]  
-> This version is planned to be released in mid-August.
+> This version is expected to be released in mid-August, but the release date is subject to change.
 
 ### Features that take a long time to create
 
@@ -15,7 +15,7 @@
 
 ### Features that don't take much time to create
 
-![](https://progress-bar.dev/100) Door overhaul
+![](https://progress-bar.dev/70) Door system overhaul
 
 ![](https://progress-bar.dev/0) Keypad overhaul
 
