@@ -1,24 +1,20 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
 > [!CAUTION]
-> This update contains destructive changes and may break:
-> - Door Power Provider in certain conditions.
-> - Items in older versions except for keycards.
+> This update contains destructive changes and will break existing maps.
 
 ### Added
 
-- Nuclear Missile
-- Nuclear Missile Launch System
-
-### Fixed
-
-- Improve Machine Door system.
-- Improve CCTV system.
+- Nuclear Missile.
+- Elevator.
 
 ### Changed
 
-- Type IDs of existing blocks, entities, and items.
+- Improve Machine Door system.
+- Improve door button.
+- Improve door keycard readers.
